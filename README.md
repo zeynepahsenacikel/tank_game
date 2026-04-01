@@ -22,7 +22,7 @@ Tank 2025 is a retro-style 2D arcade game built with JavaFX. The project demonst
 * Exit Application,ESC
 
 
-🛠 Technical Stack
+# 🛠 Technical Stack
 * Language: Java
 
 * Graphics: JavaFX (Canvas API, GraphicsContext)
